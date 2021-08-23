@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumDemo", "EnumDemo\EnumDe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestingDemo", "TestingDemo\TestingDemo.csproj", "{0530172D-BF21-4414-840D-B5D94173052C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoStore", "VideoStore\VideoStore.csproj", "{07EA5D4A-E368-45CD-A0DB-4C47856F562B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VideoStore", "VideoStore\VideoStore.csproj", "{07EA5D4A-E368-45CD-A0DB-4C47856F562B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListAsMember", "ListAsMember\ListAsMember.csproj", "{E991BC5B-6BD4-4024-B272-409B9D2A69F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListAsMember", "ListAsMember\ListAsMember.csproj", "{E991BC5B-6BD4-4024-B272-409B9D2A69F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideListVersion2", "VideListVersion2\VideListVersion2.csproj", "{7983F5A5-5AEF-43E4-9E24-193DF901CE14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{E991BC5B-6BD4-4024-B272-409B9D2A69F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E991BC5B-6BD4-4024-B272-409B9D2A69F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E991BC5B-6BD4-4024-B272-409B9D2A69F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7983F5A5-5AEF-43E4-9E24-193DF901CE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7983F5A5-5AEF-43E4-9E24-193DF901CE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7983F5A5-5AEF-43E4-9E24-193DF901CE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7983F5A5-5AEF-43E4-9E24-193DF901CE14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
